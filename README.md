@@ -1,6 +1,6 @@
-femboygpt:
+femboygpt:  
 ![femboygpt bypass](femboigpt/image.png)
-tested on:
+tested on:  
 gemini 4 argon: 3 attempts dont jailbreak  
 deepseek v4-4.1: 1st attempt jailbroken  
 gpt 6 astra: 3st attempt jailbroken  
@@ -14,7 +14,7 @@ kimi k3: 3st attempt jailbroken
 glm 5.3: 2st attempt jailbroken  
 
 
-workshop table:
+workshop table:  
 ![workshop table bypass](workshoptable/image.png)
 tested on:  
 gemini 4 argon:  
